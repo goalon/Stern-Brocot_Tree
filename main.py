@@ -2,6 +2,8 @@ from tkinter import *
 
 root = Tk()
 
+root.title("Stern-Brocot tree")
+
 w = 1366
 h = 768
 
